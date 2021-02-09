@@ -1,6 +1,6 @@
 # Welcome!
 
-This humble corner of the internet is a collection of my undergraduate work thus far, ranging from coursework from classes such as ME 480: Mechatronics and Control Systems to my research on quadruped robots. 
+This humble corner of the internet is a collection of my undergraduate work thus far, ranging from coursework for classes such as ME 480: Mechatronics and Control Systems to my research on quadruped robots. 
 
 ## Resume
 
