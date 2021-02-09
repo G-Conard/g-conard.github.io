@@ -4,7 +4,7 @@ This humble corner of the internet is a collection of my undergraduate work thus
 
 ## Resume
 
-For a quick summary of my work and experiences, click here for my resume.
+For a quick summary of my work and experiences, you can take a look at my [resume](g-conard.github.io/Conard Graduate Resume Updated.pdf).
 
 ## Quadruped Robots
 
