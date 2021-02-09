@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/G-Conard/g-conard.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This humble corner of the internet is a collection of my undergraduate work thus far, ranging from coursework from classes such as ME 480: Mechatronics and Control Systems to my research on quadruped robots. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resume
 
-### Markdown
+For a quick summary of my work and experiences, click here for my resume.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Quadruped Robots
 
-```markdown
-Syntax highlighted code block
+### Lafayette OpenDog
 
-# Header 1
-## Header 2
-### Header 3
+For me, this is where it all began. Inspired by James Bruton's [openDog](https://youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf), I collaborated with [Professor Alexander Brown](https://github.com/Alexanderallenbrown) and [Sanha Lee '20](https://github.com/sanhalee17) during the summer of 2019 to begin the development of a large-scale quadruped robot.
 
-- Bulleted
-- List
+Original GitHub repo....
 
-1. Numbered
-2. List
+Sanha and the Lafayette OpenDog Senior Design Team continued this project over the 2019-2020 school year. To see their continued progress, check out their repository...
 
-**Bold** and _Italic_ and `Code` text
+### MicroDog: A Low-Cost Quadruped Robot
 
-[Link](url) and ![Image](src)
-```
+Starting as an independent study in the spring of my junior year (2020), this project has slowly morphed into my senior thesis titled "Stepping Up: Investigating Dynamic Stability in a Low-Cost Quadruped Robot." Using a roughly $150, 6-inch tall robot designed by Professor Brown and myself, we are investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms. Currently, I am in the final stages of developing the fourth iteration of the robot and investigating ZMP control.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Independent study final paper, thesis proposal/presentation, repo
 
-### Jekyll Themes
+## 2021 NSF Graduate Research Fellowship Program
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/G-Conard/g-conard.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This past fall, I applied to the 2021 NSF GRFP. While my interests have shifted slightly away from human-robot interaction since I applied, my Graduate Research Plan Statement still reflects my ability to ..............
 
-### Support or Contact
+## Coursework
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
