@@ -29,3 +29,6 @@ This past fall, I applied to the 2021 NSF GRFP. While my interests have shifted 
 ## Coursework
 
 
+## Contact
+
+If you have further questions, feel free to contact me at conardg@lafayette.edu.
