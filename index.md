@@ -12,9 +12,9 @@ For a quick summary of my work and experiences, you can take a look at my <a hre
 
 For me, this is where it all began. Inspired by James Bruton's [openDog](https://youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf), I collaborated with [Professor Alexander Brown](https://github.com/Alexanderallenbrown) and [Sanha Lee '20](https://github.com/sanhalee17) during the summer of 2019 to begin the development of a large-scale quadruped robot.
 
-Original GitHub repo....
+Take a look at our GitHub repository, [opendog_ros](https://github.com/G-Conard/opendog_ros).
 
-Sanha and the Lafayette OpenDog Senior Design Team continued this project over the 2019-2020 school year. To see their continued progress, check out their repository...
+Sanha and the Lafayette OpenDog Senior Design Team continued this project over the 2019-2020 school year. To see their continued progress, check out the README file on opendog_ros for details about their repositories.
 
 ### MicroDog: A Low-Cost Quadruped Robot
 
