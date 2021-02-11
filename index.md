@@ -24,9 +24,15 @@ Independent study final paper, thesis proposal/presentation, repo
 
 ## 2021 NSF Graduate Research Fellowship Program
 
-This past fall, I applied to the 2021 NSF GRFP. While my interests have shifted slightly away from human-robot interaction since I applied, my Graduate Research Plan Statement still reflects my ability to ..............
+This past fall, I applied to the 2021 [NSF GRFP](https://www.nsfgrfp.org/). While my interests have shifted slightly away from human-robot interaction since I applied, my <a href="documents/Conard-NSF-GRFP-GraduateResearchPlan.pdf" target="_blank">Graduate Research Plan Statement</a> still captures one of my interest areas in robotics and reflects my ability to investigate the literature and develop a research plan. 
 
 ## Coursework
+### ME 331: Instrumentation and Data Acquisition
+In addition to learning about instrumentation, data collection and processing, uncertainty analysis, and experiment designing, this course also allowed me to further develop my technical writing skills through the creation of several lab reports, each the result of a few instructor- and peer-reviewed drafts. While we performed the experiments and analysis in pairs, we wrote individual reports. Here are two of my best reports:
+
+Conard, G. <a href="documents/Conard-ME331-Lab4.pdf" target="_blank">"Influence of Orifice Diameter on Discharge Coefficient."</a> (2020)\
+Conard, G. <a href="documents/Conard-ME331-Lab5-Strain-Gage-Report.pdf" target="_blank">"Determining Material Properties and Beam Stresses Using Strain Gages."</a> (2020)
+
 
 
 ## Contact
