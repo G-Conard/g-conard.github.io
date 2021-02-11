@@ -4,7 +4,7 @@ This humble corner of the internet is a collection of my undergraduate work thus
 
 ## Resume
 
-For a quick summary of my work and experiences, you can take a look at my <a href="Gabrielle-Conard-Resume.pdf" target="_blank">resume.</a>
+For a quick summary of my work and experiences, you can take a look at my <a href="documents/Gabrielle-Conard-Resume.pdf" target="_blank">resume.</a>
 
 ## Quadruped Robots
 
