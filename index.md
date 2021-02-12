@@ -1,10 +1,10 @@
 # Welcome!
 
-This humble corner of the internet is a collection of my undergraduate work thus far, ranging from coursework for classes such as ME 480: Mechatronics and Control Systems to my research on quadruped robots. 
+This humble corner of the internet contains a collection of my undergraduate work thus far, ranging from coursework for classes such as ME 480: Mechatronics and Control Systems to my research on quadruped robots. 
 
 ## Resume
 
-For a quick summary of my work and experiences, you can take a look at my <a href="documents/Gabrielle-Conard-Resume.pdf" target="_blank">resume.</a> You can also check out my LinkedIn profile, https://www.linkedin.com/in/gabrielle-conard/.
+For a quick summary of my work and experiences, you can take a look at my <a href="documents/Gabrielle-Conard-Resume.pdf" target="_blank">resume.</a> You can also check out my [LinkedIn profile](https://www.linkedin.com/in/gabrielle-conard/).
 
 ## Quadruped Robots
 
