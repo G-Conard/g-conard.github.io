@@ -27,7 +27,7 @@ On the software side, I focused primarily on implementing active compliance in t
 Using springs again as a model for joint compliance, we could tune how much the foot position compensated in response to an applied force. 
 
 <video width="400" controls>
-  <source src="Active-Compliance.mp4" type="video/mp4">
+  <source src="images/Active-Compliance.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>  
 
