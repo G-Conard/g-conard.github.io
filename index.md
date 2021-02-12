@@ -20,7 +20,7 @@ Sanha and the Lafayette OpenDog Senior Design Team continued this project over t
 
 ### MicroDog: A Low-Cost Quadruped Robot
 
-Starting as an independent study in the spring of my junior year (2020), this project has slowly morphed into my senior thesis titled "Stepping Up: Investigating Dynamic Stability in a Low-Cost Quadruped Robot." After noting a lack of inexpensive quadruped platforms that could be used by both researchers and robotics students, Professor Brown and I have developed several iterations of a roughly $150 quadruped robot to meet this need. At about 6 inches tall, this platform consists of RC servos, a custom printed circuit board featuring a Raspberry Pi Zero and an ATmega32u4, and several 3D-printed components. 
+Starting as an independent study in the spring of my junior year (2020), this project has slowly morphed into my senior thesis titled "Stepping Up: Investigating Dynamic Stability in a Low-Cost Quadruped Robot." After noting a lack of inexpensive quadruped platforms that could be used by both researchers and robotics students, Professor Brown and I have developed several iterations of a roughly $150 quadruped robot to meet this need. Standing at about 6 inches tall, this platform consists of twelve RC servos, a custom printed circuit board featuring a Raspberry Pi Zero and an ATmega32u4, and several 3D-printed components. 
 
 On the software side, I focused primarily on developing a simplistic walking gait and implementing active compliance in the legs of MicroDog during my independent study. To do this, we designed compressible feet, each fitted with a Hall effect sensor to measure the amount that the foot was compressed. The "spring constant" of the foot was experimentally derived, allowing us to determine the force being applied to the bottom of the foot. 
 
@@ -32,11 +32,11 @@ Using springs again as a model for joint compliance, we could tune how much the 
 
 For more details about my independent study, see my <a href="documents/Conard-Independent-Study-Paper.pdf" target="_blank">final report</a>.
 
-This work set the foundation for my thesis project. My original goals are presented in my thesis proposal <a href="documents/Conard-Thesis-Proposal.pdf" target="_blank">paper</a> and <a href="documents/Conard-Thesis-Proposal-Presentation.pdf" target="_blank">presentation.</a>. Over the past few months, I have been developing improved walking gaits, such as the example in the video below, and investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms such as MicroDog. Currently, I am in the final stages of developing the fourth iteration of the robot to address some electrical issues and investigating ZMP control as a potential tool for improving balance during walking. 
+This work set the foundation for my thesis project. My original goals are presented in my thesis proposal <a href="documents/Conard-Thesis-Proposal.pdf" target="_blank">paper</a> and <a href="documents/Conard-Thesis-Proposal-Presentation.pdf" target="_blank">presentation.</a>. Over the past few months, I have been developing improved walking gaits, such as the example in the video below, and I plan to investigate methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms such as MicroDog. Currently, I am in the final stages of developing the fourth iteration of the robot to address some electrical issues and investigating ZMP control as a potential tool for improving balance during walking. 
 
 [![MicroDog Walking](https://res.cloudinary.com/marcomontalbano/image/upload/v1613171808/video_to_markdown/images/youtube--5-5qfn_KVnA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/5-5qfn_KVnA "MicroDog Walking")
 
-This work has received some press coverage as well, once by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
+This work has received some press coverage as well, first by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
 
 ## 2021 NSF Graduate Research Fellowship Program
 
@@ -44,7 +44,7 @@ This past fall, I applied to the 2021 [NSF GRFP](https://www.nsfgrfp.org/). Whil
 
 ## Coursework
 ### ME 331: Instrumentation and Data Acquisition
-In addition to learning about instrumentation, data collection and processing, uncertainty analysis, and experiment designing, this course also allowed me to further develop my technical writing skills through the creation of several lab reports, each the result of a few instructor- and peer-reviewed drafts. While we performed the experiments and analysis in pairs, we wrote individual reports. Here are two of my best reports:
+In addition to learning about instrumentation, data collection and processing, uncertainty analysis, and experimental design, this course also allowed me to further develop my technical writing skills through the creation of several lab reports, each the result of a few instructor- and peer-reviewed drafts. While we performed the experiments and analysis in pairs, we wrote individual reports. Here are two of my reports:
 
 Conard, G. <a href="documents/Conard-ME331-Lab4.pdf" target="_blank">"Influence of Orifice Diameter on Discharge Coefficient."</a> (2020)\
 Conard, G. <a href="documents/Conard-ME331-Lab5-Strain-Gage-Report.pdf" target="_blank">"Determining Material Properties and Beam Stresses Using Strain Gages."</a> (2020)
