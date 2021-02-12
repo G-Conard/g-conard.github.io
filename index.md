@@ -4,7 +4,7 @@ This humble corner of the internet is a collection of my undergraduate work thus
 
 ## Resume
 
-For a quick summary of my work and experiences, you can take a look at my <a href="documents/Gabrielle-Conard-Resume.pdf" target="_blank">resume.</a>
+For a quick summary of my work and experiences, you can take a look at my <a href="documents/Gabrielle-Conard-Resume.pdf" target="_blank">resume.</a> You can also check out my LinkedIn profile, https://www.linkedin.com/in/gabrielle-conard/.
 
 ## Quadruped Robots
 
@@ -21,6 +21,8 @@ Sanha and the Lafayette OpenDog Senior Design Team continued this project over t
 Starting as an independent study in the spring of my junior year (2020), this project has slowly morphed into my senior thesis titled "Stepping Up: Investigating Dynamic Stability in a Low-Cost Quadruped Robot." Using a roughly $150, 6-inch tall robot designed by Professor Brown and myself, we are investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms. Currently, I am in the final stages of developing the fourth iteration of the robot and investigating ZMP control.
 
 Independent study final paper, thesis proposal/presentation, repo
+
+This work has received some press coverage as well, once by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
 
 ## 2021 NSF Graduate Research Fellowship Program
 
