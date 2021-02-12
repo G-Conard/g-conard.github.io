@@ -18,9 +18,26 @@ Sanha and the Lafayette OpenDog Senior Design Team continued this project over t
 
 ### MicroDog: A Low-Cost Quadruped Robot
 
-Starting as an independent study in the spring of my junior year (2020), this project has slowly morphed into my senior thesis titled "Stepping Up: Investigating Dynamic Stability in a Low-Cost Quadruped Robot." Using a roughly $150, 6-inch tall robot designed by Professor Brown and myself, we are investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms. Currently, I am in the final stages of developing the fourth iteration of the robot and investigating ZMP control.
+Starting as an independent study in the spring of my junior year (2020), this project has slowly morphed into my senior thesis titled "Stepping Up: Investigating Dynamic Stability in a Low-Cost Quadruped Robot." After noting a lack of inexpensive quadruped platforms that could be used by both researchers and robotics students, Professor Brown and I have developed several iterations of a roughly $150 quadruped robot to meet this need. At about 6 inches tall, this platform consists of RC servos, a custom printed circuit board featuring a Raspberry Pi Zero and an ATmega32u4, and several 3D-printed components. 
 
-Independent study final paper, thesis proposal/presentation, repo
+On the software side, I focused primarily on implementing active compliance in the legs of MicroDog during my independent study. To do this, we designed compressible feet, each fitted with a Hall effect sensor to measure the amount that the foot was compressed. The "spring constant" of the foot was experimentally derived, allowing us to determine the force being applied to the bottom of the foot. 
+
+<img src="images/Force-Sensing-Leg-PCB-Labeled.png" height=250 class="center">
+
+Using springs again as a model for joint compliance, we could tune how much the foot position compensated in response to an applied force. 
+
+<video width="400" controls>
+  <source src="Active-Compliance.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>  
+
+
+For more details about my independent study, see my <a href="documents/Conard-Independent-Study-Paper.pdf" target="_blank">final report.</a>.
+
+
+a roughly $150, 6-inch tall robot designed by Professor Brown and myself, we are investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms. Currently, I am in the final stages of developing the fourth iteration of the robot and investigating ZMP control.
+
+ thesis proposal/presentation, repo
 
 This work has received some press coverage as well, once by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
 
