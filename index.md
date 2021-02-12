@@ -1,6 +1,6 @@
 # Welcome!
 
-This humble corner of the internet contains a collection of my undergraduate work thus far, ranging from coursework for classes such as ME 480: Mechatronics and Control Systems to my research on quadruped robots. 
+This humble corner of the internet contains a collection of my undergraduate work thus far, ranging from coursework for classes such as ME 331: Instrumentation and Data Acquisition to my research on quadruped robots. 
 
 ## Resume
 
@@ -20,7 +20,7 @@ Sanha and the Lafayette OpenDog Senior Design Team continued this project over t
 
 Starting as an independent study in the spring of my junior year (2020), this project has slowly morphed into my senior thesis titled "Stepping Up: Investigating Dynamic Stability in a Low-Cost Quadruped Robot." After noting a lack of inexpensive quadruped platforms that could be used by both researchers and robotics students, Professor Brown and I have developed several iterations of a roughly $150 quadruped robot to meet this need. At about 6 inches tall, this platform consists of RC servos, a custom printed circuit board featuring a Raspberry Pi Zero and an ATmega32u4, and several 3D-printed components. 
 
-On the software side, I focused primarily on implementing active compliance in the legs of MicroDog during my independent study. To do this, we designed compressible feet, each fitted with a Hall effect sensor to measure the amount that the foot was compressed. The "spring constant" of the foot was experimentally derived, allowing us to determine the force being applied to the bottom of the foot. 
+On the software side, I focused primarily on developing a simplistic walking gait and implementing active compliance in the legs of MicroDog during my independent study. To do this, we designed compressible feet, each fitted with a Hall effect sensor to measure the amount that the foot was compressed. The "spring constant" of the foot was experimentally derived, allowing us to determine the force being applied to the bottom of the foot. 
 
 <img src="images/Force-Sensing-Leg-PCB-Labeled.png" height=250 class="center">
 
@@ -32,12 +32,11 @@ Using springs again as a model for joint compliance, we could tune how much the 
 </video>  
 
 
-For more details about my independent study, see my <a href="documents/Conard-Independent-Study-Paper.pdf" target="_blank">final report.</a>.
+For more details about my independent study, see my <a href="documents/Conard-Independent-Study-Paper.pdf" target="_blank">final report</a>.
 
+This work set the foundation for my thesis project. My original goals are presented in my thesis proposal <a href="documents/Conard-Thesis-Proposal.pdf" target="_blank">paper</a> and <a href="documents/Conard-Thesis-Proposal-Presentation.pdf" target="_blank">presentation.</a>. Over the past few months, I have been developing improved walking gaits, such as the example in the video below, and investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms such as MicroDog. Currently, I am in the final stages of developing the fourth iteration of the robot to address some electrical issues and investigating ZMP control as a potential tool for improving balance during walking. 
 
-a roughly $150, 6-inch tall robot designed by Professor Brown and myself, we are investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms. Currently, I am in the final stages of developing the fourth iteration of the robot and investigating ZMP control.
-
- thesis proposal/presentation, repo
+video
 
 This work has received some press coverage as well, once by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
 
