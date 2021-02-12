@@ -10,7 +10,9 @@ For a quick summary of my work and experiences, you can take a look at my <a hre
 
 ### Lafayette OpenDog
 
-For me, this is where it all began. Inspired by James Bruton's [openDog](https://youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf), I collaborated with [Professor Alexander Brown](https://github.com/Alexanderallenbrown) and [Sanha Lee '20](https://github.com/sanhalee17) during the summer of 2019 to begin the development of a large-scale quadruped robot.
+For me, this is where it all began. Inspired by James Bruton's [openDog](https://youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf), I collaborated with [Professor Alexander Brown](https://github.com/Alexanderallenbrown) and [Sanha Lee '20](https://github.com/sanhalee17) during the summer of 2019 to begin the development of a large-scale quadruped robot. My resposibilities included investigating the literature to inform our hardware and software design, deriving the inverse kinematics model for the robot, developing Python scripts using ROS to interface with the motor controllers, implementing a simple walking mechanism on a single leg (as demonstrated below), and aiding my partner in some of the mechanical design and assembly.
+
+[![Lafayette OpenDog Box Gait](https://res.cloudinary.com/marcomontalbano/image/upload/v1613171873/video_to_markdown/images/youtube--IC7xrN5SfVQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/IC7xrN5SfVQ "Lafayette OpenDog Box Gait")
 
 Take a look at our GitHub repository, [opendog_ros](https://github.com/G-Conard/opendog_ros).
 
@@ -26,17 +28,13 @@ On the software side, I focused primarily on developing a simplistic walking gai
 
 Using springs again as a model for joint compliance, we could tune how much the foot position compensated in response to an applied force. 
 
-<video width="400" controls>
-  <source src="images/Active-Compliance.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>  
-
+[![Demonstrating Active Compliance on MicroDog](https://res.cloudinary.com/marcomontalbano/image/upload/v1613171639/video_to_markdown/images/youtube--vsHqT6bXOFw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vsHqT6bXOFw "Demonstrating Active Compliance on MicroDog")
 
 For more details about my independent study, see my <a href="documents/Conard-Independent-Study-Paper.pdf" target="_blank">final report</a>.
 
 This work set the foundation for my thesis project. My original goals are presented in my thesis proposal <a href="documents/Conard-Thesis-Proposal.pdf" target="_blank">paper</a> and <a href="documents/Conard-Thesis-Proposal-Presentation.pdf" target="_blank">presentation.</a>. Over the past few months, I have been developing improved walking gaits, such as the example in the video below, and investigating methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms such as MicroDog. Currently, I am in the final stages of developing the fourth iteration of the robot to address some electrical issues and investigating ZMP control as a potential tool for improving balance during walking. 
 
-video
+[![MicroDog Walking](https://res.cloudinary.com/marcomontalbano/image/upload/v1613171808/video_to_markdown/images/youtube--5-5qfn_KVnA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/5-5qfn_KVnA "MicroDog Walking")
 
 This work has received some press coverage as well, once by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
 
