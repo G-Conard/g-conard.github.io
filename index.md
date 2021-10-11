@@ -1,6 +1,6 @@
 # Welcome!
 
-This humble corner of the internet contains a collection of my undergraduate work thus far, ranging from coursework for classes such as ME 331: Instrumentation and Data Acquisition to my research on quadruped robots. 
+This humble corner of the internet contains a collection of my undergraduate and graduate work thus far, ranging from coursework for classes such as ME 331: Instrumentation and Data Acquisition to my research on quadruped robots. 
 
 ## Resume
 
@@ -32,11 +32,17 @@ Using springs again as a model for joint compliance, we could tune how much the 
 
 For more details about my independent study, see my <a href="documents/Conard-Independent-Study-Paper.pdf" target="_blank">final report</a>.
 
-This work set the foundation for my thesis project. My original goals are presented in my thesis proposal <a href="documents/Conard-Thesis-Proposal.pdf" target="_blank">paper</a> and <a href="documents/Conard-Thesis-Proposal-Presentation.pdf" target="_blank">presentation.</a>. Over the past few months, I have been developing improved walking gaits, such as the example in the video below, and I plan to investigate methods of maintaining balance and navigating over stairs and uneven terrian on low-cost platforms such as MicroDog. Currently, I am in the final stages of developing the fourth iteration of the robot to address some electrical issues and investigating ZMP control as a potential tool for improving balance during walking. 
+This work set the foundation for my thesis project. My original goals are presented in my thesis proposal <a href="documents/Conard-Thesis-Proposal.pdf" target="_blank">paper</a> and <a href="documents/Conard-Thesis-Proposal-Presentation.pdf" target="_blank">presentation.</a>. During the Fall 2020 semester, I developed improved walking gaits, such as the example in the video below, and experimented with obstacle avoidance using IR sensors by having the robot avoid the edge of a table.  
 
 [![MicroDog Walking](https://res.cloudinary.com/marcomontalbano/image/upload/v1613171808/video_to_markdown/images/youtube--5-5qfn_KVnA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/5-5qfn_KVnA "MicroDog Walking")
 
+After designing and constructing a fourth iteration of the robot to address some electrical issues, I spent the rest of the spring semester investigating methods of implementing disturbance recovery from a side load using the force sensors in the feet. 
+
+[![MicroDog Disturbance Recovery](https://res.cloudinary.com/marcomontalbano/image/upload/v1633960871/video_to_markdown/images/youtube--MJ5eYOLgRrY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/MJ5eYOLgRrY "MicroDog Disturbance Recovery")
+
 This work has received some press coverage as well, first by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
+
+While I have passed my thesis defense and the project is "finished", there is so much more that can be done with this platform. I hope to publish a paper in the near future about the work I have done on it thus far, and hopefully, future students at Lafayette can continue exploring what this robot can do, like stair climbing or uneven terrain navigation.
 
 ## 2021 NSF Graduate Research Fellowship Program
 
