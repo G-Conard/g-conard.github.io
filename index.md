@@ -4,7 +4,7 @@ This humble corner of the internet contains a collection of my undergraduate wor
 
 ## Resume
 
-For a quick summary of my work and experiences, you can take a look at my <a href="documents/Gabrielle-Conard-Resume.pdf" target="_blank">resume.</a> You can also check out my [LinkedIn profile](https://www.linkedin.com/in/gabrielle-conard/).
+For a quick summary of my work and experiences, you can take a look at my <a href="documents/ConardG_Resume_Oct2021.pdf" target="_blank">resume.</a> You can also check out my [LinkedIn profile](https://www.linkedin.com/in/gabrielle-conard/) for a more comprehensive summary of my experiences.
 
 ## Quadruped Robots
 
