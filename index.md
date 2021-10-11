@@ -46,7 +46,7 @@ While I have passed my thesis defense and the project is "finished", there is so
 
 ## 2021 NSF Graduate Research Fellowship Program
 
-This past fall, I applied to the 2021 [NSF GRFP](https://www.nsfgrfp.org/). While my interests have shifted slightly away from human-robot interaction since I applied, my <a href="documents/Conard-NSF-GRFP-GraduateResearchPlan.pdf" target="_blank">Graduate Research Plan Statement</a> still captures one of my interest areas in robotics and reflects my ability to investigate the literature and develop a research plan. 
+This past spring, I was honored to receive a 2021 [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), without which I would not have been able to go to graduate school this year. While my interests also include terrestrial robotic locomotion and mechatronics, my <a href="documents/Conard-NSF-GRFP-GraduateResearchPlan.pdf" target="_blank">Graduate Research Plan Statement</a> captures my interest in gesture-based communication and human-robot interaction as well as reflects my ability to investigate the literature and develop a research plan. 
 
 ## Coursework
 ### ME 331: Instrumentation and Data Acquisition
@@ -59,4 +59,4 @@ Conard, G. <a href="documents/Conard-ME331-Lab5-Strain-Gage-Report.pdf" target="
 
 ## Contact
 
-If you have further questions, feel free to contact me at conardg@lafayette.edu.
+If you have further questions, feel free to contact me at ggconard@wpi.edu.
