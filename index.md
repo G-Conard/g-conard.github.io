@@ -42,7 +42,7 @@ After designing and constructing a fourth iteration of the robot to address some
 
 This work has received some press coverage as well, first by IEEE in a fun article describing [how roboticists have been working from home](https://spectrum.ieee.org/automaton/robotics/home-robots/how-roboticists-and-robots-have-been-working-from-home) and again by [Lafayette News](https://news.lafayette.edu/2020/09/21/homegrown-robots/).
 
-While I have passed my thesis defense and the project is "finished", there is so much more that can be done with this platform. I hope to publish a paper in the near future about the work I have done on it thus far, and hopefully, future students at Lafayette can continue exploring what this robot can do, like stair climbing or uneven terrain navigation.
+This work culminated in a final <a href="documents/GC_Thesis_FullDocument.pdf" target="_blank">thesis report</a> and defense presentation. While I have passed my thesis defense and the project is "finished", there is so much more that can be done with this platform. I hope to publish a paper in the near future about the work I have done on it thus far, and hopefully, future students at Lafayette can continue exploring what this robot can do, like stair climbing or uneven terrain navigation.
 
 ## 2021 NSF Graduate Research Fellowship Program
 
