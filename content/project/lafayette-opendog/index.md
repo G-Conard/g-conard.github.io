@@ -3,7 +3,7 @@ title: Lafayette OpenDog
 summary: For me, this is where it all began. Inspired by James Bruton's openDog, I collaborated with Professor Alexander Brown and Sanha Lee '20 during the summer of 2019 to begin the development of a large-scale quadruped robot.
 tags:
   - Lafayette
-date: '2016-04-27T00:00:00Z'
+date: '2019-08-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
