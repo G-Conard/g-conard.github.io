@@ -57,8 +57,8 @@ sections:
   #   design: 
   #     columns: '2'
   - block: experience
+    id: researchAndProf
     content:
-      id: researchAndProf
       title: Research and Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -144,52 +144,52 @@ sections:
               * Modified and designed various components of the hip and leg systems
     design:
       columns: '2'
-  # - block: experience
-  #   content:
-  #     id: teaching
-  #     title: Teaching and Mentoring
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Co-Advisor for Major Qualifying Project (MQP) Teams
-  #         company: WPI Soft Robotics Lab
-  #         company_url: ''
-  #         company_logo: wpi-logo
-  #         location: Massachussetts
-  #         date_start: '2021-08-17'
-  #         date_end: '2023-05-03'
-  #         description: |2-
-  #             * Mentored two teams of undergraduate students (one team each year) working on a continuum mobile robot for pipe inspection for their senior capstone projects
-  #             * Guided students by helping them define the scope of their projects, meeting with them weekly to ensure they were on schedule and to answer questions, and aiding with documentation
-  #       - title: CRLA Level I Certified Physics/Engineering Peer Tutor
-  #         company: Lafayette College
-  #         company_url: ''
-  #         company_logo: lafayette-college-logo
-  #         location: Pennsylvania
-  #         date_start: '2018-01-28'
-  #         date_end: '2021-05-31'
-  #         description: |2-
-  #             * Provided one-on-one tutoring for students in PHYS 111: General Physics – Mechanics and Thermodynamics, PHYS 131: Physics I – Mechanics, PHYS 133: Physics II – Electricity, Magnetism, and Waves, ES 226: Statics, and ME 240: Dynamic
-  #             * Completed CRLA Level 1 Tutor Certification by participating in regular training sessions
-  #       - title: Supplemental Instructor for PHYS 131 - Physics I Mechanics
-  #         company: Lafayette College Academic Resource Hub
-  #         company_url: ''
-  #         company_logo: lafayette-college-logo
-  #         location: Pennsylvania
-  #         date_start: '2020-01-28'
-  #         date_end: '2020-05-14'
-  #         description: |2-
-  #             * Led and prepared material for group sessions to reinforce concepts and applications of course content, including review worksheets in preparation for exams
-  #             * Held drop-in sessions to work individually with students
-  #             * Successfully transitioned from in-person to online sessions in compliance with Lafayette’s shift to remote learning in March 2020 due to the pandemic.
-  #   design:
-  #     columns: '2'
+  - block: experience
+    id: teaching
+    content:
+      title: Teaching and Mentoring
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Co-Advisor for Major Qualifying Project (MQP) Teams
+          company: WPI Soft Robotics Lab
+          company_url: ''
+          company_logo: wpi-logo
+          location: Massachussetts
+          date_start: '2021-08-17'
+          date_end: '2023-05-03'
+          description: |2-
+              * Mentored two teams of undergraduate students (one team each year) working on a continuum mobile robot for pipe inspection for their senior capstone projects
+              * Guided students by helping them define the scope of their projects, meeting with them weekly to ensure they were on schedule and to answer questions, and aiding with documentation
+        - title: CRLA Level I Certified Physics/Engineering Peer Tutor
+          company: Lafayette College
+          company_url: ''
+          company_logo: lafayette-college-logo
+          location: Pennsylvania
+          date_start: '2018-01-28'
+          date_end: '2021-05-31'
+          description: |2-
+              * Provided one-on-one tutoring for students in PHYS 111: General Physics – Mechanics and Thermodynamics, PHYS 131: Physics I – Mechanics, PHYS 133: Physics II – Electricity, Magnetism, and Waves, ES 226: Statics, and ME 240: Dynamic
+              * Completed CRLA Level 1 Tutor Certification by participating in regular training sessions
+        - title: Supplemental Instructor for PHYS 131 - Physics I Mechanics
+          company: Lafayette College Academic Resource Hub
+          company_url: ''
+          company_logo: lafayette-college-logo
+          location: Pennsylvania
+          date_start: '2020-01-28'
+          date_end: '2020-05-14'
+          description: |2-
+              * Led and prepared material for group sessions to reinforce concepts and applications of course content, including review worksheets in preparation for exams
+              * Held drop-in sessions to work individually with students
+              * Successfully transitioned from in-person to online sessions in compliance with Lafayette’s shift to remote learning in March 2020 due to the pandemic.
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
