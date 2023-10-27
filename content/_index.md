@@ -59,7 +59,95 @@ sections:
   - block: experience
     content:
       id: experience
-      title: Experience
+      title: Research and Professional Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: NSF Graduate Research Fellow
+          company: WPI Soft Robotics Lab
+          company_url: ''
+          company_logo: srl-logo
+          location: Worcester, Massachussetts
+          date_start: '2021-08-17'
+          date_end: ''
+          description: |2-
+              * UPDATE
+              * Working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI
+              * Quadruped Team: Collaborating with a team of graduate students to develop a soft quadruped robot with a flexible spine. Responsible for designing inverse kinematics and control algorithms
+              * Lizard Team: Investigating methods of enabling a soft lizard-inspired robot to traverse uneven terrain, including mechanical design updates and motion planning development. Mentoring an undergraduate senior Major Qualifying Project team that is developing a similar robot for pipe inspection applications
+              * Wearable Assistive Device: Designing a wearable device to assist those with hearing loss
+        - title: NASA OSTEM - LANDO Robotics Research and Development Intern
+          company: NASA Langley Research Center
+          company_url: ''
+          company_logo: 'NASA-logo'
+          location: Hampton, Virginia
+          date_start: '2023-06-12'
+          date_end: '2023-08-18'
+          description: |2-
+              * UPDATE
+              * Worked with the LANDO team on the Lightweight Surface Manipulation System (LSMS), a robotic crane for surface operations on the Moon or Mars
+              * Developed dynamic model of and began controller design for an underactuated double pendulum mounted at the end of a robot arm as an analogy for controlling a payload's oscillations at the end of the LSMS
+              * Designed, manufactured, and assembled the double pendulum system to be mounted on a UR3 robot
+        - title: NASA NIF - LANDO Robotics Research and Development Intern
+          company: NASA Langley Research Center
+          company_url: ''
+          company_logo: 'NASA-logo'
+          location: Hampton, Virginia
+          date_start: '2022-06-06'
+          date_end: '2023-08-12'
+          description: |2-
+              * UPDATE
+              * Worked with the LANDO team on the Lightweight Surface Manipulation System (LSMS), a robotic crane for surface operations on the Moon or Mars
+              * Drafted a literature review comparing the LSMS to existing robotic cranes and investigating empirical dynamic modeling and system identification techniques to support simulation and controller design
+              * Developed Python/MATLAB scripts for deriving serial arm dynamic and energy equations
+              * Supported hardware development
+        - title: Honors Thesis Student in Mechanical Engineering
+          company: Lafayette College
+          company_url: ''
+          company_logo: lafayette-college-logo
+          location: Easton, Pennsylvania
+          date_start: '2020-08-17'
+          date_end: '2021-06-05'
+          description: |2-
+              * Constructed an improved version of the low-cost quadruped robot developed during the Excel summer research program, achieving a total cost of approximately $160
+              * Characterized IR sensors and custom force sensors
+              * Developed basic autonomous navigation to avoid obstacles using IR sensors
+              * Developed a simulation environment in Webots for rapid software development and testing
+              * Investigated dynamic balancing by implementing a novel method of recovering from disturbances in Python, which involved leaning against small side loads and side-stepping to recover from larger impacts
+        - title: Excel Research Scholar
+          company: Lafayette College
+          company_url: ''
+          company_logo: lafayette-college-logo
+          location: Easton, Pennsylvania
+          date_start: '2020-05-25'
+          date_end: '2020-07-31'
+          description: |2-
+              * Constructed a low-cost quadruped robot in preparation for senior thesis project
+              * Designed printed circuit boards, 3D-printed components, and force sensors for each foot
+              * Developed software in Python and Arduino to implement active compliance and walking mechanisms
+        - title: Clare Boothe Luce Research Scholar
+          company: Lafayette College
+          company_url: ''
+          company_logo: lafayette-college-logo
+          location: Easton, Pennsylvania
+          date_start: '2019-06-03'
+          date_end: '2019-08-09'
+          description: |2-
+              * Developed a quadruped robot based on the open-source project openDog by James Bruton with another student and mechanical engineering professor
+              * Wrote Python scripts using ROS to develop walking mechanisms that laid the groundwork for the 2019-2020 Lafayette OpenDog Senior Design Team
+              * Modified and designed various components of the hip and leg systems
+    design:
+      columns: '2'
+  - block: experience
+    content:
+      id: teaching
+      title: Teaching and Mentoring
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
