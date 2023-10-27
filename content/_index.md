@@ -74,8 +74,8 @@ sections:
           company_url: ''
           company_logo: wpi-logo
           location: Massachussetts
-          date_start: '2021-08'
-          date_end: '2023-05'
+          date_start: '2021-08-17'
+          date_end: '2023-05-03'
           description: |2-
               * Mentored two teams of undergraduate students (one team each year) working on a continuum mobile robot for pipe inspection for their senior capstone projects
               * Guided students by helping them define the scope of their projects, meeting with them weekly to ensure they were on schedule and to answer questions, and aiding with documentation
@@ -84,8 +84,8 @@ sections:
           company_url: ''
           company_logo: lafayette-college-logo
           location: Pennsylvania
-          date_start: '2018-01'
-          date_end: '2021-05'
+          date_start: '2018-01-28'
+          date_end: '2021-05-31'
           description: |2-
               * Provided one-on-one tutoring for students in PHYS 111: General Physics – Mechanics and Thermodynamics, PHYS 131: Physics I – Mechanics, PHYS 133: Physics II – Electricity, Magnetism, and Waves, ES 226: Statics, and ME 240: Dynamic
               * Completed CRLA Level 1 Tutor Certification by participating in regular training sessions
@@ -94,8 +94,8 @@ sections:
           company_url: ''
           company_logo: lafayette-college-logo
           location: Pennsylvania
-          date_start: '2020-01'
-          date_end: '2020-05'
+          date_start: '2020-01-28'
+          date_end: '2020-05-14'
           description: |2-
               * Led and prepared material for group sessions to reinforce concepts and applications of course content, including review worksheets in preparation for exams
               * Held drop-in sessions to work individually with students
