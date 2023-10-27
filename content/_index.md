@@ -257,7 +257,7 @@ sections:
   #     view: compact
   #     columns: '2'
   - block: portfolio
-    id: projects
+    id: proj
     content:
       title: Projects
       filters:
