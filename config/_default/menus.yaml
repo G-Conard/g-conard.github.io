@@ -13,11 +13,11 @@ main:
   - name: Experience
     url: '#researchAndProf'
     weight: 20
-  - name: Teaching and Mentoring
-    url: '#teaching'
-    weight: 30
+  # - name: Teaching and Mentoring
+  #   url: '#teaching'
+  #   weight: 30
   - name: Projects
-    url: '#proj'
+    url: '#projects'
     weight: 40
   # - name: Talks
   #   url: '#talks'
