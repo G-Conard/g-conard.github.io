@@ -53,7 +53,14 @@ sections:
   - block: markdown
     content: 
       title: Skills
+      subtitle: Software
       text: 'Testing testing'
+      subtitle: Manufacturing
+      items:
+        - name: Python
+          icon: python
+          icon_pack: fab
+        - name: ROS
     design: 
       columns: '2'
   - block: experience
