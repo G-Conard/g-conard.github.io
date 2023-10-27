@@ -58,7 +58,7 @@ sections:
   #     columns: '2'
   - block: experience
     content:
-      id: experience
+      id: researchAndProf
       title: Research and Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
