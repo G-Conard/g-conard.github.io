@@ -50,8 +50,15 @@ sections:
       username: admin
     design:
       columns: '1'
+  - block: markdown
+    content: 
+      title: Skills
+      text: 'Testing testing'
+    design: 
+      columns: '2'
   - block: experience
     content:
+      id: experience
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
