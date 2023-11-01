@@ -25,8 +25,8 @@ organizations:
     url: https://www.wpi.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Naturally inquisitive about far too many things, my interests span a wide variety of applications of robotics and control systems engineering, including space exploration, assistive technology, and human-robot interaction, but they are all united by the common thread of modeling robot movement and locomotion. Thus far, my research has focused on exploring how to achieve more efficient, animal-like motions with robots, specifically through the modeling and control of a soft-spined quadruped robot and a lizard-inspired robot.
 # Maybe use CV summary version
+bio: Robotics Engineering PhD student passionate about designing robots from top to bottom with experience in mechatronics and PCB design, classical and modern control theory, dynamics modeling, and bridging the gap between simulations and physical robots. Particular interests include space technology, assistive technology, and human-robot interaction.
 
 # Interests to show in About widget
 interests:
@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-UPDATE!!!Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Robotics Engineering PhD Student in the Soft Robotics Lab at Worcester Polytechnic Institute (WPI). Naturally inquisitive about far too many things, my interests span a wide variety of applications of robotics and control systems engineering, including space exploration, assistive technology, and human-robot interaction, but they are all united by the common thread of modeling robot movement and locomotion. Thus far, my research has focused on exploring how to achieve more efficient, animal-like motions with robots, specifically through the modeling and control of an origami-inspired continuum spine that is impeded in our lab's quadruped robot and lizard-inspired robot.
 {style="text-align: justify;"}

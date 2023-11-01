@@ -1,6 +1,6 @@
 ---
 title: MicroDog - A Low-Cost Quadruped Robot
-summary: To the need for inexpensive quadruped platforms that could be used by both researchers and robotics students, I developed a roughly $150 quadruped robot over the course of my honors thesis.
+summary: To meet the need for inexpensive quadruped platforms that could be used by both researchers and robotics students, I developed a roughly $150 quadruped robot over the course of my honors thesis.
 tags:
   - Lafayette
 date: '2021-06-05T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2021-06-05T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: MicroDog - A Low-Cost Quadruped Robot
   focal_point: Smart
 
 # links:
