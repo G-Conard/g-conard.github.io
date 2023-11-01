@@ -77,11 +77,10 @@ sections:
           date_start: '2021-08-17'
           date_end: ''
           description: |2-
-              * UPDATE
               * Working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI
-              * Quadruped Team: Collaborating with a team of graduate students to develop a soft quadruped robot with a flexible spine. Responsible for designing inverse kinematics and control algorithms
-              * Lizard Team: Investigating methods of enabling a soft lizard-inspired robot to traverse uneven terrain, including mechanical design updates and motion planning development. Mentoring an undergraduate senior Major Qualifying Project team that is developing a similar robot for pipe inspection applications
-              * Wearable Assistive Device: Designing a wearable device to assist those with hearing loss
+              * Lizard Team: Investigating methods of enabling a soft lizard-inspired robot to traverse uneven terrain, including mechanical design updates and motion planning development 
+              * Quadruped Team: Collaborating with a team of graduate students to develop a soft quadruped robot with a flexible spine. Responsible for deriving inverse kinematics, developing Webots simulation, and assisting with mechanical design
+              * Wearable Assistive Device: Designed a wearable device to assist those with hearing loss
         - title: NASA OSTEM - LANDO Robotics Research and Development Intern
           company: NASA Langley Research Center
           company_url: ''
@@ -90,8 +89,7 @@ sections:
           date_start: '2023-06-12'
           date_end: '2023-08-18'
           description: |2-
-              * UPDATE
-              * Worked with the LANDO team on the Lightweight Surface Manipulation System (LSMS), a robotic crane for surface operations on the Moon or Mars
+              * Worked with the LANDO team for a second summer on the Lightweight Surface Manipulation System (LSMS), a robotic crane for surface operations on the Moon or Mars
               * Developed dynamic model of and began controller design for an underactuated double pendulum mounted at the end of a robot arm as an analogy for controlling a payload's oscillations at the end of the LSMS
               * Designed, manufactured, and assembled the double pendulum system to be mounted on a UR3 robot
         - title: NASA NIF - LANDO Robotics Research and Development Intern
@@ -102,7 +100,6 @@ sections:
           date_start: '2022-06-06'
           date_end: '2023-08-12'
           description: |2-
-              * UPDATE
               * Worked with the LANDO team on the Lightweight Surface Manipulation System (LSMS), a robotic crane for surface operations on the Moon or Mars
               * Drafted a literature review comparing the LSMS to existing robotic cranes and investigating empirical dynamic modeling and system identification techniques to support simulation and controller design
               * Developed Python/MATLAB scripts for deriving serial arm dynamic and energy equations
