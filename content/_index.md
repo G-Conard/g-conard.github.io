@@ -71,7 +71,7 @@ sections:
       items:
         - title: Graduate Researcher and Lab Coordinator
           company: WPI Soft Robotics Lab
-          company_url: ''
+          company_url: https://softrobotics.wpi.edu/
           company_logo: srl-logo
           location: Worcester, Massachussetts
           date_start: '2024-08-01'
@@ -91,7 +91,7 @@ sections:
               * Coordinating and hosting tours of the lab
         - title: NSF Graduate Research Fellow
           company: WPI Soft Robotics Lab
-          company_url: ''
+          company_url: https://softrobotics.wpi.edu/
           company_logo: srl-logo
           location: Worcester, Massachussetts
           date_start: '2021-08-17'
@@ -104,7 +104,7 @@ sections:
               * Wearable Assistive Device: Designed a wearable device to assist those with hearing loss
         - title: NASA OSTEM - LANDO Robotics Research and Development Intern
           company: NASA Langley Research Center
-          company_url: ''
+          company_url: https://www.nasa.gov/langley/about-langley-research-center/
           company_logo: 'NASA-logo'
           location: Hampton, Virginia
           date_start: '2023-06-12'
@@ -115,7 +115,7 @@ sections:
               * Designed, manufactured, and assembled the double pendulum system to be mounted on a UR3 robot
         - title: NASA NIF - LANDO Robotics Research and Development Intern
           company: NASA Langley Research Center
-          company_url: ''
+          company_url: https://www.nasa.gov/langley/about-langley-research-center/
           company_logo: 'NASA-logo'
           location: Hampton, Virginia
           date_start: '2022-06-06'
@@ -127,7 +127,7 @@ sections:
               * Supported hardware development
         - title: Honors Thesis Student in Mechanical Engineering
           company: Lafayette College
-          company_url: ''
+          company_url: https://me.lafayette.edu/
           company_logo: lafayette-college-logo
           location: Easton, Pennsylvania
           date_start: '2020-08-17'
@@ -140,7 +140,7 @@ sections:
               * Investigated dynamic balancing by implementing a novel method of recovering from disturbances in Python, which involved leaning against small side loads and side-stepping to recover from larger impacts
         - title: Excel Research Scholar
           company: Lafayette College
-          company_url: ''
+          company_url: https://academics.lafayette.edu/undergraduate-research/excel-scholars-program/
           company_logo: lafayette-college-logo
           location: Easton, Pennsylvania
           date_start: '2020-05-25'
@@ -151,7 +151,7 @@ sections:
               * Developed software in Python and Arduino to implement active compliance and walking mechanisms
         - title: Clare Boothe Luce Research Scholar
           company: Lafayette College
-          company_url: ''
+          company_url: https://engineering.lafayette.edu/opportunities/clare-boothe-luce-research-scholars-program/
           company_logo: lafayette-college-logo
           location: Easton, Pennsylvania
           date_start: '2019-06-03'
@@ -177,7 +177,7 @@ sections:
       items:
         - title: Graduate Teaching Assistant
           company: Worcester Polytechnic Institute
-          company_url: ''
+          company_url: https://www.wpi.edu/academics/departments/robotics-engineering
           company_logo: wpi-logo
           location: Worcester, Massachussetts
           date_start: '2024-08-22'
@@ -188,7 +188,7 @@ sections:
               * Grading assignments
         - title: Co-Advisor for Major Qualifying Project (MQP) Teams - HexaFlex Flexible Spine Hexapod Robot
           company: WPI Soft Robotics Lab
-          company_url: ''
+          company_url: https://softrobotics.wpi.edu/
           company_logo: srl-logo
           location: Worcester, Massachussetts
           date_start: '2024-08-22'
@@ -199,7 +199,7 @@ sections:
               * Assisted them in writing and submitting a conference paper to the IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025)
         - title: Co-Advisor for Major Qualifying Project (MQP) Teams - Pipe Inspection Robot
           company: WPI Soft Robotics Lab
-          company_url: ''
+          company_url: https://softrobotics.wpi.edu/
           company_logo: srl-logo
           location: Worcester, Massachussetts
           date_start: '2021-08-17'
@@ -209,7 +209,7 @@ sections:
               * Guided students by helping them define the scope of their projects, meeting with them weekly to ensure they were on schedule and to answer questions, and aiding with documentation
         - title: CRLA Level I Certified Physics/Engineering Peer Tutor
           company: Lafayette College
-          company_url: ''
+          company_url: https://hub.lafayette.edu/
           company_logo: lafayette-college-logo
           location: Easton, Pennsylvania
           date_start: '2018-01-28'
@@ -219,7 +219,7 @@ sections:
               * Completed CRLA Level 1 Tutor Certification by participating in regular training sessions
         - title: Supplemental Instructor for PHYS 131 - Physics I Mechanics
           company: Lafayette College Academic Resource Hub
-          company_url: ''
+          company_url: https://hub.lafayette.edu/
           company_logo: lafayette-college-logo
           location: Easton, Pennsylvania
           date_start: '2020-01-28'
