@@ -69,18 +69,40 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Researcher and Lab Coordinator
+          company: WPI Soft Robotics Lab
+          company_url: ''
+          company_logo: srl-logo
+          location: Worcester, Massachussetts
+          date_start: '2024-08-01'
+          date_end: ''
+          description: |2-
+              I have continued working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI.
+
+              As a researcher, my projects include:
+                * Investigating dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
+                * Designing and building new versions of our origami-inspired continuum actuators to improve operation speed and manufacturing
+                * Developing simulation of origami actuator in Webots
+
+              As a lab coordinator, my responsibilities include:
+                * Organizing and running weekly meetings
+                * Managing lab space
+                * Sending out announcements
+                * Coordinating and hosting tours of the lab
         - title: NSF Graduate Research Fellow
           company: WPI Soft Robotics Lab
           company_url: ''
           company_logo: srl-logo
           location: Worcester, Massachussetts
           date_start: '2021-08-17'
-          date_end: ''
+          date_end: '2024-08-01'
           description: |2-
-              * Working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI
-              * Lizard Team: Investigating methods of enabling a soft lizard-inspired robot to traverse uneven terrain, including mechanical design updates and motion planning development 
-              * Quadruped Team: Collaborating with a team of graduate students to develop a soft quadruped robot with a flexible spine. Responsible for deriving inverse kinematics, developing Webots simulation, and assisting with mechanical design
-              * Wearable Assistive Device: Designed a wearable device to assist those with hearing loss
+              I worked under Dr. Cagdas Onal in the Soft Robotics Lab at WPI. While a NSF Graduate Research Fellow, I was involved with the following projects:
+                * Collaborated with several teams of graduate students on various soft mobile robots developed by our lab, including a flexible-spined quadruped and a continuum-spined wheeled robot
+                * Lizard Team: Collaborated with a team of graduate students to investigate methods of enabling a soft lizard-inspired continuum-spined wheeled robot to traverse uneven terrain, including executing mechanical design updates to improve functionality and incorporate sensors for SLAM 
+                * Quadruped Team: Collaborated with another graduate student to develop a soft quadruped robot with a flexible spine. Responsible for deriving inverse kinematics, developing a Webots simulation, and assisting with mechanical design
+                * Origami-Inspired Continuum Actuator - Modeling: Investigated dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
+                * Wearable Assistive Device: Designed a wearable device to assist those with hearing loss
         - title: NASA OSTEM - LANDO Robotics Research and Development Intern
           company: NASA Langley Research Center
           company_url: ''
@@ -154,11 +176,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Co-Advisor for Major Qualifying Project (MQP) Teams
-          company: WPI Soft Robotics Lab
+        - title: Graduate Teaching Assistant
+          company: Worcester Polytechnic Institute
           company_url: ''
           company_logo: wpi-logo
-          location: Massachussetts
+          location: Worcester, Massachussetts
+          date_start: '2024-08-22'
+          date_end: ''
+          description: |2- 
+              Working as teaching assistant (TA) for RBE 501: Robot Dynamics. Responsibilities include:
+                * Holding office hours to answer student questions
+                * Grading assignments
+        - title: Co-Advisor for Major Qualifying Project (MQP) Teams - HexaFlex Flexible Spine Hexapod Robot
+          company: WPI Soft Robotics Lab
+          company_url: ''
+          company_logo: srl-logo
+          location: Worcester, Massachussetts
+          date_start: '2024-08-22'
+          date_end: ''
+          description: |2-
+              * Mentoring a team of undergraduate students working on a flexible-spined hexapod robot for their senior capstone project
+              * Guiding students by helping them define the scope of their projects, meeting with them weekly to ensure they were on schedule and to answer questions, and aiding with documentation
+              * Assisted them in writing and submitting a conference paper to the IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025)
+        - title: Co-Advisor for Major Qualifying Project (MQP) Teams - Pipe Inspection Robot
+          company: WPI Soft Robotics Lab
+          company_url: ''
+          company_logo: srl-logo
+          location: Worcester, Massachussetts
           date_start: '2021-08-17'
           date_end: '2023-05-03'
           description: |2-
@@ -168,7 +212,7 @@ sections:
           company: Lafayette College
           company_url: ''
           company_logo: lafayette-college-logo
-          location: Pennsylvania
+          location: Easton, Pennsylvania
           date_start: '2018-01-28'
           date_end: '2021-05-31'
           description: |2-
@@ -178,7 +222,7 @@ sections:
           company: Lafayette College Academic Resource Hub
           company_url: ''
           company_logo: lafayette-college-logo
-          location: Pennsylvania
+          location: Easton, Pennsylvania
           date_start: '2020-01-28'
           date_end: '2020-05-14'
           description: |2-
