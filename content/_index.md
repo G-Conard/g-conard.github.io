@@ -127,7 +127,7 @@ sections:
               * Supported hardware development
         - title: Honors Thesis Student in Mechanical Engineering
           company: Lafayette College
-          company_url: https://me.lafayette.edu/
+          company_url: https://me.lafayette.edu/honors-thesis/
           company_logo: lafayette-college-logo
           location: Easton, Pennsylvania
           date_start: '2020-08-17'
