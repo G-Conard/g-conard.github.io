@@ -77,7 +77,7 @@ sections:
           date_start: '2024-08-01'
           date_end: ''
           description: |2-
-              I have continued working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI.12
+              I have continued working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI.
 
               As a researcher, my projects include:
               * Investigating dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
@@ -85,10 +85,10 @@ sections:
               * Developing simulation of origami actuator in Webots
 
               As a lab coordinator, my responsibilities include:
-                  * Organizing and running weekly meetings
-                  * Managing lab space
-                  * Sending out announcements
-                  * Coordinating and hosting tours of the lab
+              * Organizing and running weekly meetings
+              * Managing lab space
+              * Sending out announcements
+              * Coordinating and hosting tours of the lab
         - title: NSF Graduate Research Fellow
           company: WPI Soft Robotics Lab
           company_url: ''
@@ -98,11 +98,10 @@ sections:
           date_end: '2024-08-01'
           description: |2-
               I worked under Dr. Cagdas Onal in the Soft Robotics Lab at WPI. While a NSF Graduate Research Fellow, I was involved with the following projects:
-                * Collaborated with several teams of graduate students on various soft mobile robots developed by our lab, including a flexible-spined quadruped and a continuum-spined wheeled robot
-                * Lizard Team: Collaborated with a team of graduate students to investigate methods of enabling a soft lizard-inspired continuum-spined wheeled robot to traverse uneven terrain, including executing mechanical design updates to improve functionality and incorporate sensors for SLAM 
-                * Quadruped Team: Collaborated with another graduate student to develop a soft quadruped robot with a flexible spine. Responsible for deriving inverse kinematics, developing a Webots simulation, and assisting with mechanical design
-                * Origami-Inspired Continuum Actuator - Modeling: Investigated dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
-                * Wearable Assistive Device: Designed a wearable device to assist those with hearing loss
+              * Lizard Team: Collaborated with a team of graduate students to investigate methods of enabling a soft lizard-inspired continuum-spined wheeled robot to traverse uneven terrain, including executing mechanical design updates to improve functionality and incorporate sensors for SLAM 
+              * Quadruped Team: Collaborated with another graduate student to develop a soft quadruped robot with a flexible spine. Responsible for deriving inverse kinematics, developing a Webots simulation, and assisting with mechanical design
+              * Origami-Inspired Continuum Actuator - Modeling: Investigated dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
+              * Wearable Assistive Device: Designed a wearable device to assist those with hearing loss
         - title: NASA OSTEM - LANDO Robotics Research and Development Intern
           company: NASA Langley Research Center
           company_url: ''
@@ -185,8 +184,8 @@ sections:
           date_end: ''
           description: |2- 
               Working as teaching assistant (TA) for RBE 501: Robot Dynamics. Responsibilities include:
-                * Holding office hours to answer student questions
-                * Grading assignments
+              * Holding office hours to answer student questions
+              * Grading assignments
         - title: Co-Advisor for Major Qualifying Project (MQP) Teams - HexaFlex Flexible Spine Hexapod Robot
           company: WPI Soft Robotics Lab
           company_url: ''
