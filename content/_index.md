@@ -80,15 +80,15 @@ sections:
               I have continued working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI.
 
               As a researcher, my projects include:
-                * Investigating dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
-                * Designing and building new versions of our origami-inspired continuum actuators to improve operation speed and manufacturing
-                * Developing simulation of origami actuator in Webots
+                  * Investigating dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
+                  * Designing and building new versions of our origami-inspired continuum actuators to improve operation speed and manufacturing
+                  * Developing simulation of origami actuator in Webots
 
               As a lab coordinator, my responsibilities include:
-                * Organizing and running weekly meetings
-                * Managing lab space
-                * Sending out announcements
-                * Coordinating and hosting tours of the lab
+                  * Organizing and running weekly meetings
+                  * Managing lab space
+                  * Sending out announcements
+                  * Coordinating and hosting tours of the lab
         - title: NSF Graduate Research Fellow
           company: WPI Soft Robotics Lab
           company_url: ''
