@@ -77,12 +77,12 @@ sections:
           date_start: '2024-08-01'
           date_end: ''
           description: |2-
-              I have continued working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI.
+              I have continued working under Dr. Cagdas Onal in the Soft Robotics Lab at WPI.12
 
               As a researcher, my projects include:
-                  * Investigating dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
-                  * Designing and building new versions of our origami-inspired continuum actuators to improve operation speed and manufacturing
-                  * Developing simulation of origami actuator in Webots
+              * Investigating dynamic models for the continuum spine in order to accurately predict and control the robots' behavior
+              * Designing and building new versions of our origami-inspired continuum actuators to improve operation speed and manufacturing
+              * Developing simulation of origami actuator in Webots
 
               As a lab coordinator, my responsibilities include:
                   * Organizing and running weekly meetings
